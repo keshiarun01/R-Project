@@ -92,7 +92,3 @@ For any questions or suggestions, please contact:
 
 - **Your Name**: arunkumar.k@northeastern.edu
 - **GitHub**: keshiarun01(https://github.com/keshiarun01))
-
----
-
-Feel free to customize the content and format as needed to suit your specific project and GitHub repository structure!
